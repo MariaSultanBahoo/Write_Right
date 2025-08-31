@@ -84,7 +84,3 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 Developed by **\[Maria Sultan]** 
-
-
-Would you like me to also **generate a `requirements.txt`** for your repo so it’s ready to run on anyone’s machine?
-```
